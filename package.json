@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "week-9-challenge-kickoff",
   "version": "1.0.0",
-  "description": "",
+  "description": "CLI README GENERATOR",
   "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csinlasath/my_awesome_readme_generator.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "inquirer": "8.2.4"
-  }
+  "bugs": {
+    "url": "https://github.com/csinlasath/my_awesome_readme_generator/issues"
+  },
+  "homepage": "https://github.com/csinlasath/my_awesome_readme_generator#readme"
 }
