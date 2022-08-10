@@ -7,7 +7,10 @@ const questions = [];
 function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    const test = "test";
+    console.error("Hello");
+}
 
 // Function call to initialize app
 init();
